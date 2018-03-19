@@ -1,2 +1,2 @@
-# vcard-website
+# vCard website
 My personal vCard website
