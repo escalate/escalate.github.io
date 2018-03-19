@@ -1,0 +1,10 @@
+baseURL = "//www.felix-boerner.de"
+languageCode = "de-de"
+title = "Felix Börner"
+description = "DevOps - Agility - Leadership"
+theme = "hugo-split-theme"
+
+[params.content]
+  name = "Felix Börner"
+  tagline = "DevOps. Agility. Leadership."
+  bio = ""
