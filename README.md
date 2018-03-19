@@ -1,2 +1,2 @@
 # escalate.github.io
-My personal vCard website hosted on Github Pages
+My personal vCard website hosted on GitHub Pages
