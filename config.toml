@@ -3,6 +3,7 @@ languageCode = "de-de"
 title = "Felix Börner"
 theme = "hugo-split-theme"
 copyright = "&copy; 2017 - 2018 Felix Börner"
+enableRobotsTXT = true
 
 [params]
   name = "Felix Börner"
