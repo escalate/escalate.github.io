@@ -1,10 +1,49 @@
 baseURL = "//www.felix-boerner.de"
 languageCode = "de-de"
 title = "Felix Börner"
-description = "DevOps - Agility - Leadership"
 theme = "hugo-split-theme"
+copyright = "&copy; 2017 - 2018 Felix Börner"
 
-[params.content]
+[params]
   name = "Felix Börner"
-  tagline = "DevOps. Agility. Leadership."
-  bio = ""
+  description = "DevOps - Agility - Leadership"
+  shareImage = "/images/portrait.jpg"
+  twitterHandle = "felix_boerner"
+  favicon = "favicon.ico"
+
+  [params.content]
+    name = "Felix Börner"
+    tagline = "DevOps. Agility. Leadership."
+    bio = "Hello my name is Felix Börner and I'm a System Engineer with focus on DevOps, Agility and Leadership."
+
+  [params.visual.image]
+    enable = true
+    file = "/images/portrait.jpg"
+
+  [[params.links]]
+    [params.links.list1]
+      heading = "Connect"
+
+      [[params.links.list1.link]]
+        text = "Xing"
+        url = "https://www.xing.com/profile/Felix_Boerner2"
+
+      [[params.links.list1.link]]
+        text = "Facebook"
+        url = "https://www.facebook.com/felix.boerner.de"
+
+      [[params.links.list1.link]]
+        text = "Twitter"
+        url = "https://twitter.com/felix_boerner"
+
+  [[params.links]]
+    [params.links.list2]
+      heading = "Legal"
+
+      [[params.links.list2.link]]
+        text = "Imprint"
+        url = ""
+
+      [[params.links.list2.link]]
+        text = "Privacy Policy"
+        url = ""
