@@ -5,11 +5,20 @@
     <link>//www.felix-boerner.de/</link>
     <description>Recent content on Felix Börner</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-de</language>
+    <language>en-US</language>
     <copyright>&amp;copy; 2017 - 2018 Felix Börner</copyright>
     
 	<atom:link href="//www.felix-boerner.de/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Imprint</title>
+      <link>//www.felix-boerner.de/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//www.felix-boerner.de/imprint/</guid>
+      <description>bla</description>
+    </item>
     
   </channel>
 </rss>

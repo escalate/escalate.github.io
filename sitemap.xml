@@ -13,6 +13,10 @@
   </url>
   
   <url>
+    <loc>//www.felix-boerner.de/imprint/</loc>
+  </url>
+  
+  <url>
     <loc>//www.felix-boerner.de/tags/</loc>
     <priority>0</priority>
   </url>
