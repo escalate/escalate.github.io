@@ -43,8 +43,8 @@ enableRobotsTXT = true
 
       [[params.links.list2.link]]
         text = "Imprint"
-        url = ""
+        url = "/imprint"
 
       [[params.links.list2.link]]
         text = "Privacy Policy"
-        url = ""
+        url = "/privacy-policy"
