@@ -4,6 +4,7 @@ title = "Felix Börner"
 theme = "hugo-split-theme"
 copyright = "&copy; 2017 - 2018 Felix Börner"
 enableRobotsTXT = true
+disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 [params]
   name = "Felix Börner"
