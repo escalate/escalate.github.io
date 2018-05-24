@@ -7,7 +7,7 @@ enableRobotsTXT = true
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
 [params]
-  name = "Felix Börner"
+  author = "Felix Börner"
   description = "DevOps - Agility - Leadership"
   shareImage = "/images/portrait.jpg"
   twitterHandle = "felix_boerner"
