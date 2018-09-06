@@ -25,16 +25,20 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
       heading = "Connect"
 
       [[params.links.list1.link]]
-        text = "Xing"
-        url = "https://www.xing.com/profile/Felix_Boerner2"
-
-      [[params.links.list1.link]]
         text = "Facebook"
         url = "https://www.facebook.com/felix.boerner.de"
 
       [[params.links.list1.link]]
+        text = "Github"
+        url = "https://github.com/escalate"
+
+      [[params.links.list1.link]]
         text = "Twitter"
         url = "https://twitter.com/felix_boerner"
+
+      [[params.links.list1.link]]
+        text = "Xing"
+        url = "https://www.xing.com/profile/Felix_Boerner2"
 
   [[params.links]]
     [params.links.list2]
