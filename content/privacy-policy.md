@@ -46,13 +46,13 @@ Wir haben auf dieser Website die Funktion IP-Anonymisierung aktiviert. Dadurch w
 
 __Browser Plugin__
 
-Sie k&ouml;nnen die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht s&auml;mtliche Funktionen dieser Website vollumf&auml;nglich werden nutzen k&ouml;nnen. Sie k&ouml;nnen dar&uuml;ber hinaus die Erfassung der durch den Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie das unter dem folgenden Link verf&uuml;gbare Browser-Plugin herunterladen und installieren: [https://tools.google.com/dlpage/gaoptout?hl=de](https://tools.google.com/dlpage/gaoptout?hl=de)
+Sie k&ouml;nnen die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht s&auml;mtliche Funktionen dieser Website vollumf&auml;nglich werden nutzen k&ouml;nnen. Sie k&ouml;nnen dar&uuml;ber hinaus die Erfassung der durch den Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie das [Browser-Plugin zur Deaktivierung von Google Analytics](https://tools.google.com/dlpage/gaoptout?hl=de) herunterladen und installieren.
 
 __Widerspruch gegen Datenerfassung__
 
 Sie k&ouml;nnen die Erfassung Ihrer Daten durch Google Analytics verhindern, indem Sie auf folgenden Link klicken. Es wird ein Opt-Out-Cookie gesetzt, der die Erfassung Ihrer Daten bei zuk&uuml;nftigen Besuchen dieser Website verhindert: [Google Analytics deaktivieren](javascript:gaOptout();)
 
-Mehr Informationen zum Umgang mit Nutzerdaten bei Google Analytics finden Sie in der Datenschutzerkl&auml;rung von Google: [https://support.google.com/analytics/answer/6004245?hl=de](https://support.google.com/analytics/answer/6004245?hl=de)
+Mehr Informationen zum Umgang mit Nutzerdaten bei Google Analytics finden Sie in der [Datenschutzerkl&auml;rung von Google](https://support.google.com/analytics/answer/6004245?hl=de).
 
 __Auftragsdatenverarbeitung__
 
