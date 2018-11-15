@@ -1,26 +1,26 @@
 #!/bin/bash
 set -e -E -u -C -o pipefail
 
-echo -e "\033[0;32mDeploying website to GitHub Pages...\033[0m"
+echo -e "\033[0;32mBuild and deploy website...\033[0m"
 
-# Build the project.
+# Build website
 hugo
 
-# Go To Public folder
+# Switch to public folder
 cd public
 
-# Add changes to git.
+# Add changes to git
 git add .
 
-# Commit changes.
-msg="feat: update static website"
+# Commit changes
+msg="feat: update website"
 if [ $# -eq 1 ]; then
     msg="$1"
 fi
 git commit -m "$msg"
 
-# Push source and build repos.
+# Push source and build repos
 git push origin master
 
-# Come Back up to the Project Root
+# Come back up to project root
 cd ..
