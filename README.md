@@ -1,6 +1,6 @@
 # vCard website
 
-My personal vCard website hosted on GitHub pages
+My personal vCard website hosted on GitHub Pages
 
 
 ## Publishing
