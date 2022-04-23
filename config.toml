@@ -6,8 +6,10 @@ theme = "hugo-split-theme"
 enableRobotsTXT = true
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
-[blackfriday]
-  extensions = ["hardLineBreak"]
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
 
 [params]
   author = "Felix Börner"
