@@ -10,8 +10,7 @@ Albert-M&uuml;cke-Ring 4i
 
 ## Kontakt
 
-Telefon: +49 (0) 3342 / 30 94 86 0
-Telefax: +49 (0) 3222 / 33 85 31 1
+Telefon: +49 (0) 3521 / 47 65 73 7
 E-Mail: imprint [at] felix [minus] boerner [punkt] de
 
 ## Haftung f&uuml;r Inhalte
