@@ -1,7 +1,7 @@
 baseURL = "https://www.felix-boerner.de"
 languageCode = "en-US"
 title = "Felix Börner"
-copyright = "&copy; 2017 - 2022 Felix Börner"
+copyright = "&copy; 2017 - 2023 Felix Börner"
 theme = "hugo-split-theme"
 enableRobotsTXT = true
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]

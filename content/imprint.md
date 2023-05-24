@@ -5,8 +5,8 @@ title = "Imprint / Impressum"
 ## Angaben gem&auml;&szlig; &sect; 5 TMG
 
 Felix B&ouml;rner
-Clubstra&szlig;e 1
-15366 Hoppegarten
+Albert-M&uuml;cke-Ring 4i
+01662 Mei&ssuml;en
 
 ## Kontakt
 
