@@ -4,7 +4,7 @@ title = "Felix Börner"
 copyright = "&copy; 2017 - 2023 Felix Börner"
 theme = "hugo-split-theme"
 enableRobotsTXT = true
-disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
+disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
 
 [markup]
   [markup.goldmark]
