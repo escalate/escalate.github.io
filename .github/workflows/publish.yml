@@ -1,11 +1,12 @@
-name: GitHub Pages
-
+name: Publish
 'on':
-  push:
+  workflow_run:
+    workflows:
+      - Test
     branches:
       - master
-  pull_request:
-
+    types:
+      - completed
 jobs:
   publish:
     name: Publish
