@@ -13,7 +13,7 @@ disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
 
 [params]
   author = "Felix Börner"
-  description = "DevOps - Agility - Leadership"
+  description = "BizDevOps - Agility - Leadership"
   shareImage = "/images/portrait.jpg"
   twitterHandle = "felix_boerner"
   favicon = "favicon.ico"
