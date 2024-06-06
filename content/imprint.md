@@ -6,7 +6,7 @@ title = "Imprint / Impressum"
 
 Felix B&ouml;rner
 Albert-M&uuml;cke-Ring 4i
-01662 Mei&ssuml;en
+01662 Mei&szlig;en
 
 ## Kontakt
 
