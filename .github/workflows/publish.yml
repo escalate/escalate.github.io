@@ -31,7 +31,6 @@ jobs:
         run: |
           hugo \
             --environment=production \
-            --baseURL=https://www.felix-boerner.de \
             --minify
 
       - name: Deploy static website to GitHub Pages
