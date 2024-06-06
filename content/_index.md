@@ -1,6 +1,6 @@
 +++
 title = "Felix Börner"
-tagline = "DevOps · Agility · Leadership"
+tagline = "BizDevOps · Agility · Leadership"
 +++
 
 Hello my name is Felix Börner and I'm a Technical Project Manager with focus on BizDevOps, Agility and Leadership.
