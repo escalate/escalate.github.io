@@ -17,6 +17,7 @@ disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
   shareImage = "/images/portrait.jpg"
   twitterHandle = "felix_boerner"
   favicon = "favicon.ico"
+  licensed = true
 
   [params.visual.image]
     enable = true
