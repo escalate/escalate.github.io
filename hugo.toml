@@ -32,11 +32,11 @@ disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
         url = "https://www.facebook.com/felix.boerner.de"
 
       [[params.links.list1.link]]
-        text = "Github"
+        text = "GitHub"
         url = "https://github.com/escalate"
 
       [[params.links.list1.link]]
-        text = "Twitter"
+        text = "X (Twitter)"
         url = "https://twitter.com/felix_boerner"
 
       [[params.links.list1.link]]
@@ -48,9 +48,9 @@ disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
       heading = "Legal"
 
       [[params.links.list2.link]]
-        text = "Imprint"
-        url = "/imprint"
-
-      [[params.links.list2.link]]
         text = "Privacy Policy"
         url = "/privacy-policy"
+
+      [[params.links.list2.link]]
+        text = "Imprint"
+        url = "/imprint"
