@@ -22,11 +22,11 @@ Sie k&ouml;nnen Ihren Browser so einstellen, dass Sie &uuml;ber das Setzen von C
 
 Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log Files, die Ihr Browser automatisch an uns &uuml;bermittelt. Dies sind:
 
-  * Browsertyp und Browserversion
-  * verwendetes Betriebssystem
-  * Referrer URL
-  * Hostname des zugreifenden Rechners
-  * Uhrzeit der Serveranfrage
+- Browsertyp und Browserversion
+- verwendetes Betriebssystem
+- Referrer URL
+- Hostname des zugreifenden Rechners
+- Uhrzeit der Serveranfrage
 
 Diese Daten sind nicht bestimmten Personen zuordenbar. Eine Zusammenf&uuml;hrung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Wir behalten uns vor, diese Daten nachtr&auml;glich zu pr&uuml;fen, wenn uns konkrete Anhaltspunkte f&uuml;r eine rechtswidrige Nutzung bekannt werden.
 
@@ -40,28 +40,27 @@ Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics. Anbieter
 
 Google Analytics verwendet so genannte &quot;Cookies&quot;. Das sind Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie erm&ouml;glichen. Die durch den Cookie erzeugten Informationen &uuml;ber Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA &uuml;bertragen und dort gespeichert.
 
-__IP-Anonymisierung__
+**IP-Anonymisierung**
 
 Wir haben auf dieser Website die Funktion IP-Anonymisierung aktiviert. Dadurch wird Ihre IP-Adresse von Google innerhalb von Mitgliedstaaten der Europ&auml;ischen Union oder in anderen Vertragsstaaten des Abkommens &uuml;ber den Europ&auml;ischen Wirtschaftsraum vor der &Uuml;bermittlung in die USA gek&uuml;rzt. Nur in Ausnahmef&auml;llen wird die volle IP-Adresse an einen Server von Google in den USA &uuml;bertragen und dort gek&uuml;rzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports &uuml;ber die Websiteaktivit&auml;ten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegen&uuml;ber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser &uuml;bermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengef&uuml;hrt.
 
-__Browser Plugin__
+**Browser Plugin**
 
 Sie k&ouml;nnen die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht s&auml;mtliche Funktionen dieser Website vollumf&auml;nglich werden nutzen k&ouml;nnen. Sie k&ouml;nnen dar&uuml;ber hinaus die Erfassung der durch den Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem Sie das [Browser-Plugin zur Deaktivierung von Google Analytics](https://tools.google.com/dlpage/gaoptout?hl=de) herunterladen und installieren.
 
-__Widerspruch gegen Datenerfassung__
+**Widerspruch gegen Datenerfassung**
 
-Sie k&ouml;nnen die Erfassung Ihrer Daten durch Google Analytics verhindern, indem Sie auf folgenden Link klicken. Es wird ein Opt-Out-Cookie gesetzt, der die Erfassung Ihrer Daten bei zuk&uuml;nftigen Besuchen dieser Website verhindert: [Google Analytics deaktivieren](javascript:gaOptout();)
+Sie k&ouml;nnen die Erfassung Ihrer Daten durch Google Analytics verhindern, indem Sie auf folgenden Link klicken. Es wird ein Opt-Out-Cookie gesetzt, der die Erfassung Ihrer Daten bei zuk&uuml;nftigen Besuchen dieser Website verhindert: [Google Analytics deaktivieren](<javascript:gaOptout();>)
 
 Mehr Informationen zum Umgang mit Nutzerdaten bei Google Analytics finden Sie in der [Datenschutzerkl&auml;rung von Google](https://support.google.com/analytics/answer/6004245?hl=de).
 
-__Auftragsdatenverarbeitung__
+**Auftragsdatenverarbeitung**
 
 Wir haben mit Google einen Vertrag zur Auftragsdatenverarbeitung abgeschlossen und setzen die strengen Vorgaben der deutschen Datenschutzbeh&ouml;rden bei der Nutzung von Google Analytics vollst&auml;ndig um.
 
-__Demografische Merkmale bei Google Analytics__
+**Demografische Merkmale bei Google Analytics**
 
 Diese Website nutzt die Funktion &ldquo;demografische Merkmale&rdquo; von Google Analytics. Dadurch k&ouml;nnen Berichte erstellt werden, die Aussagen zu Alter, Geschlecht und Interessen der Seitenbesucher enthalten. Diese Daten stammen aus interessenbezogener Werbung von Google sowie aus Besucherdaten von Drittanbietern. Diese Daten k&ouml;nnen keiner bestimmten Person zugeordnet werden. Sie k&ouml;nnen diese Funktion jederzeit &uuml;ber die Anzeigeneinstellungen in Ihrem Google-Konto deaktivieren oder die Erfassung Ihrer Daten durch Google Analytics wie im Punkt &ldquo;Widerspruch gegen Datenerfassung&rdquo; dargestellt generell untersagen.
-
 
 ## SSL-Verschl&uuml;sselung
 
